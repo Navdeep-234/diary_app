@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">diary</string>
+    <string name="image">image</string>
+    <string name="recycler_date_view">recycler_date_view</string>
+    <string name="recycler_title_view">recycler_title_view</string>
+    <string name="date_view">date_view</string>
+    <string name="title_view">Title_View</string>
+
+</resources>
